@@ -1,4 +1,4 @@
-# Meirinkan.github.io
+# sample_webpage_home.github.io
 https://progriro.github.io/sample_webpage_home/
 
 シンプルなWebサイトのサンプルです。
