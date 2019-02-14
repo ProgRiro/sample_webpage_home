@@ -1,5 +1,5 @@
 # sample_webpage_home
-https://progriro.github.io/sample_webpage_home/
+https://shin81zzz.github.io/sample_webpage_home/
 
 シンプルなWebサイトのサンプルです。
 
